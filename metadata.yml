@@ -1,0 +1,14 @@
+---
+:id: 147687019
+:submitters:
+- :name: Tanmaie Kailash
+  :email: kailasht@grinnell.edu
+- :name: Natalia Ramirez Jimenez
+  :email: ramirezn@grinnell.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-11-10 01:59:14.024985000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-11-09 17:59:14.024985000 Z
+:status: processed
+:score: 100.0
