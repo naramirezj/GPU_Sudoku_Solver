@@ -1,4 +1,4 @@
-# GPU_Sudoku_Solver
+# GPU Sudoku Solver
 GPU-based Sudoku solver, using C and CUDA.
 The code for the solver is in sudoku.cu, a Makefile is provided so the code can be compiled through the terminal with the command:
 ~~~C
